@@ -67,6 +67,7 @@ ECU.ISMA.202
 * SweatShoppe | https://vimeo.com/7012935
 * Nearness | https://vimeo.com/6588461
 * Cycling | http://redpaperheart.com/work/cyclingclassic
+* Laser | https://www.youtube.com/watch?v=prc-8l7I76U
 
 
 ##Computer Vision
