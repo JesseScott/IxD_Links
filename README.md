@@ -26,14 +26,15 @@ ECU.ISMA.202
 
 * Swayd | https://www.youtube.com/watch?v=DwahJKgWojU
 * Bubble Building | https://www.youtube.com/watch?v=DSzPZBvrpdQ
-* Merry Go Round | https://vimeo.com/74942209
-* Yobosayo | http://www.designboom.com/art/yobosayo-participatory-public-artwork-for-seoul-citizens-hall/
 * Red Ball Project | http://redballproject.com/
 * Drink Up Fountain | Yes Yes No | https://www.youtube.com/watch?v=bl_0BfPlJYc&feature=youtu.be
 
 ##Analog
 
 * White | https://vimeo.com/35857895
+* Merry Go Round | https://vimeo.com/74942209
+* Yobosayo | http://www.designboom.com/art/yobosayo-participatory-public-artwork-for-seoul-citizens-hall/
+
 
 ##Embedded
 
