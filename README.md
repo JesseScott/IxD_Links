@@ -40,6 +40,7 @@ ECU.ISMA.202
 
 * Yes Yes Bot | http://www.yesyesno.com/yesyesbot/
 * Talking Shoe | http://www.yesyesno.com/talking-shoe/
+* Blendie | Kelly Dobson | www.web.media.mit.edu/~monster/blendie
 
 ##Visualization
 
