@@ -39,11 +39,18 @@ a curated collection of links to inspiring Interaction Design Projects
 
 * Yes Yes Bot | http://www.yesyesno.com/yesyesbot/
 * Talking Shoe | http://www.yesyesno.com/talking-shoe/
-* Blendie | Kelly Dobson | www.web.media.mit.edu/~monster/blendie
 
 ## Data Visualization
 
 * Nike Run | http://www.yesyesno.com/nike-collab-city-runs/
+
+## Audio Analysis / Synthesis
+
+* Blendie | Kelly Dobson | www.web.media.mit.edu/~monster/blendie
+* Audible Colour | https://vimeo.com/43306909
+* Beat Bricks | https://vimeo.com/45026119
+* City Symphonies | https://vimeo.com/44197369
+
 
 
 ## Bodily Interaction
@@ -75,7 +82,6 @@ a curated collection of links to inspiring Interaction Design Projects
 
 ## Computer Vision
 
-* Audible Colour | https://vimeo.com/43306909
 * Light Bombing | https://vimeo.com/102507009
 * Rain Room | https://vimeo.com/51830893
 * Night Lights | Yes Yes No | https://vimeo.com/8525186
@@ -83,3 +89,8 @@ a curated collection of links to inspiring Interaction Design Projects
 * Step Up To It | http://redpaperheart.com/work/stepuptoit
 * Hug Party | http://www.redpaperheart.com/work/hugparty
 * Future Mario | https://www.youtube.com/watch?v=eMNtrLcbCNk
+* Years | https://vimeo.com/30501143
+* My Little Piece of Privacy | https://www.youtube.com/watch?v=rKhbUjVyKIc
+* Passage | https://vimeo.com/69879128
+* Abstract Wall | https://vimeo.com/68852188
+* Moth | https://vimeo.com/27772326
