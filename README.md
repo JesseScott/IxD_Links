@@ -1,10 +1,8 @@
 # IxD_Links
 a curated collection of links to inspiring Interaction Design Projects
 
-ECU.ISMA.202
-============
 
-##Dance
+## Embodied Movement
 
 * Apparition | Klaus Obermaier | https://www.youtube.com/watch?v=-wVq41Bi2yE
 * Mortal Engine | Chunky Move | https://www.youtube.com/watch?v=sbjOMualLVs
@@ -13,7 +11,7 @@ ECU.ISMA.202
 * Hakanai | Adrien M / Claire B | https://vimeo.com/65175919
 * Pixel | | https://vimeo.com/114767889
 
-##Mapping
+## Projection Mapping
 
 * Box | Bot & Dolly | https://www.youtube.com/watch?v=lX6JcybgDFo
 * Omote | Face Mapping | https://vimeo.com/103425574
@@ -22,32 +20,33 @@ ECU.ISMA.202
 * Sydney Opera House | https://vimeo.com/45835867
 * Digital Wallpaper | https://vimeo.com/6378943
 
-##Tangible
+## Tangible Interfaces
 
 * Swayd | https://www.youtube.com/watch?v=DwahJKgWojU
 * Bubble Building | https://www.youtube.com/watch?v=DSzPZBvrpdQ
 * Red Ball Project | http://redballproject.com/
 * Drink Up Fountain | Yes Yes No | https://www.youtube.com/watch?v=bl_0BfPlJYc&feature=youtu.be
 
-##Analog
+## Purely Analog
 
 * White | https://vimeo.com/35857895
 * Merry Go Round | https://vimeo.com/74942209
 * Yobosayo | http://www.designboom.com/art/yobosayo-participatory-public-artwork-for-seoul-citizens-hall/
+* Wet Paint | http://mic.com/articles/127798/pantone-and-school-of-the-art-institute-of-chicago-artists-collaborate-on-street-art-in-seoul-south-korea
 
 
-##Embedded
+## Embedded Electronics
 
 * Yes Yes Bot | http://www.yesyesno.com/yesyesbot/
 * Talking Shoe | http://www.yesyesno.com/talking-shoe/
 * Blendie | Kelly Dobson | www.web.media.mit.edu/~monster/blendie
 
-##Visualization
+## Data Visualization
 
 * Nike Run | http://www.yesyesno.com/nike-collab-city-runs/
 
 
-##Physical
+## Bodily Interaction
 
 * 21 Balancours | https://vimeo.com/40980676
 * A Tilt Of Light | https://vimeo.com/44005246
@@ -57,7 +56,7 @@ ECU.ISMA.202
 * CollaBolla | https://youtu.be/5SUJMhDsaR0?t=1m37s
 
 
-##Lighting
+## Lighting Based
 
 * Marsatac | https://vimeo.com/110884069
 * LED Throwies | Graffiti Research Lab | https://vimeo.com/21178880
@@ -65,7 +64,7 @@ ECU.ISMA.202
 * Scattered Pixel | https://vimeo.com/7071410
 * Light Form | https://vimeo.com/45704324
 
-##Interfaces
+## Experimental Interfaces
 
 * Power Glove | https://www.youtube.com/watch?v=AacoxHFYvZw
 * SweatShoppe | https://vimeo.com/7012935
@@ -74,7 +73,7 @@ ECU.ISMA.202
 * Laser | https://www.youtube.com/watch?v=prc-8l7I76U
 
 
-##Computer Vision
+## Computer Vision
 
 * Audible Colour | https://vimeo.com/43306909
 * Light Bombing | https://vimeo.com/102507009
@@ -83,3 +82,4 @@ ECU.ISMA.202
 * Androidify | http://redpaperheart.com/work/androidify
 * Step Up To It | http://redpaperheart.com/work/stepuptoit
 * Hug Party | http://www.redpaperheart.com/work/hugparty
+* Future Mario | https://www.youtube.com/watch?v=eMNtrLcbCNk
