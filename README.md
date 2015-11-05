@@ -28,6 +28,7 @@ Awesome list-ness forthcoming.
 * Bubble Building | https://www.youtube.com/watch?v=DSzPZBvrpdQ
 * Red Ball Project | http://redballproject.com/
 * Drink Up Fountain | Yes Yes No | https://www.youtube.com/watch?v=bl_0BfPlJYc&feature=youtu.be
+* Marble Answering Machine | https://vimeo.com/19930744
 
 ## Purely Analog
 
