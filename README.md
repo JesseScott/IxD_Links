@@ -60,7 +60,6 @@ Awesome list-ness forthcoming.
 * City Symphonies | https://vimeo.com/44197369
 
 
-
 ## Bodily Interaction
 
 * 21 Balancours | https://vimeo.com/40980676
@@ -78,6 +77,7 @@ Awesome list-ness forthcoming.
 * Light Drift | https://www.youtube.com/watch?v=jLdgJ7556Fs
 * Scattered Pixel | https://vimeo.com/7071410
 * Light Form | https://vimeo.com/45704324
+* Pixel Phones | http://seb.ly/work/pixelphones/
 
 ## Experimental Interfaces
 
@@ -102,3 +102,6 @@ Awesome list-ness forthcoming.
 * Passage | https://vimeo.com/69879128
 * Abstract Wall | https://vimeo.com/68852188
 * Moth | https://vimeo.com/27772326
+* Wooden Mirror | https://www.youtube.com/watch?v=BZysu9QcceM
+* Link | https://vimeo.com/17560592
+* Sharing Faces | https://vimeo.com/96549043
